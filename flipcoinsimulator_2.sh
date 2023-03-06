@@ -1,4 +1,5 @@
-#!/bin/bash 
+#!/bin/bash
+
 heads=0
 tails=0
 
